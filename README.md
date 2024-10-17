@@ -1,7 +1,7 @@
 # OCEANpub
 
 ## Introduction
-This repo contains the core code for OCEAN (the paper is coming later), our extension of [FIT](https://ieeexplore.ieee.org/document/10646638), which aims to further reduce the (overall) communication cost and to make best use of the wasted slots in each channel-packed ciphertext.
+This repo contains the prototype code for OCEAN (the paper is coming later), our extension of [FIT](https://ieeexplore.ieee.org/document/10646638), which aims to further reduce the (overall) communication cost and to make best use of the wasted slots in each channel-packed ciphertext.
 
 ## Required Packages
  - g++ (version >= 8)
