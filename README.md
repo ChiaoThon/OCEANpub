@@ -18,7 +18,7 @@ The `test_conv.cpp` in `tests/` folder is the convolution from CrypTFlow2.
 
 The `test_relu.cpp` in `tests/` folder is the ReLU from CrypTFlow2.
 
-The `test_reconv.cpp` in `tests/` folder is relu-convolution, with optimization, proposed in FIT.
+The `test_reluconv.cpp` in `tests/` folder is relu-convolution, with optimization, proposed in FIT.
 
 The `test_oceanpub.cpp` in `tests/` folder is relu-convolution of our proposed OCEAN.
 
